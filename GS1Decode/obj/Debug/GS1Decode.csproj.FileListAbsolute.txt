@@ -1,0 +1,5 @@
+C:\Users\steve\Documents\Visual Studio 2008\Projects\GS1Decode\GS1Decode\bin\Debug\GS1Decode.dll
+C:\Users\steve\Documents\Visual Studio 2008\Projects\GS1Decode\GS1Decode\bin\Debug\GS1Decode.pdb
+C:\Users\steve\Documents\Visual Studio 2008\Projects\GS1Decode\GS1Decode\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\steve\Documents\Visual Studio 2008\Projects\GS1Decode\GS1Decode\obj\Debug\GS1Decode.dll
+C:\Users\steve\Documents\Visual Studio 2008\Projects\GS1Decode\GS1Decode\obj\Debug\GS1Decode.pdb
